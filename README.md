@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis (Analysis Not Complete)
+# Amazon_Vine_Analysis (Written Analysis Not Complete, ipynb files done)
 
 ## Overview of the analysis
 
