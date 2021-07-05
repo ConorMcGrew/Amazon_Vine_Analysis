@@ -6,9 +6,8 @@ In order to inform SellBy about potentially participating in Amazon Vine, produc
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions
 How many Vine reviews and non-Vine reviews were there?
--
+- There were 
 -
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
